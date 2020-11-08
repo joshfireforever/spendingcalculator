@@ -17,7 +17,7 @@ comparing against a given spending limit. -->
         
         <form>
             <h4>Enter list of purchases:</h4>
-            <textarea id="arrField" rows="20" cols="60" placeholder="List items with dollar amounts preceding, for example:&#13&#13$50 Groceries&#13$20 Movies&#13$15 Haircut"></textarea>
+            <textarea id="arrField" rows="15" cols="60" placeholder="Only lines beginning with $ will be counted..."></textarea>
         </form>
           
         <br>
